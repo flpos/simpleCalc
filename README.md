@@ -1,3 +1,9 @@
+# Calculadora simples usando React
+Criado usando o template `typescript`.
+
+[Acesse a aplicação](https://flpos.github.io/simpleCalc/)
+
+## \\/\\/ Conteúdo criado pelo create-react-app. \\/\\/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
